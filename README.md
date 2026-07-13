@@ -1,7 +1,12 @@
 ### Hi there 👋
-### I am currently a first-year PhD student at Nanjing University of Posts and Telecommunications(NJUPT) under the supervision of [Prof. PhD. Hao Gao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52BC62DCFE050007F01006EFE).
+### I am currently a PhD student at Nanjing University of Posts and Telecommunications(NJUPT) under the supervision of [Prof. PhD. Hao Gao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52BC62DCFE050007F01006EFE).
 ### 🔭 I’m currently working on relightable and animatable avatar.
 ### 🌱 I’m interested in computer graphics and computer vision.
+### 📫 How to reach me: jiatliux@gmail.com
+### 📖 My research:
+  - [(TVCG26) Effective Gaussian Management for High-fidelity Scene Reconstruction](https://github.com/Jiatttliu/LightGaussianSurfels).
+  - ...
+  - still working for more...
 <!--
 **JiatengLiu/JiatengLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
