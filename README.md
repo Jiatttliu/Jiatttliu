@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am currently a PhD student at Nanjing University of Posts and Telecommunications(NJUPT) under the supervision of [Prof. PhD. Hao Gao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52BC62DCFE050007F01006EFE).
+<!--### I am currently a PhD student at Nanjing University of Posts and Telecommunications(NJUPT) under the supervision of [Prof. PhD. Hao Gao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52BC62DCFE050007F01006EFE).-->
 ### 🔭 I’m currently working on relightable and animatable avatar.
 ### 🌱 I’m interested in computer vision and graphics.
 ### 📫 How to reach me: jiatliux@gmail.com
